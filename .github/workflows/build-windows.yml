@@ -18,6 +18,7 @@ on:
       - "**/*.csproj"
       - "**/*.resx"
       - ".github/workflows/*.yml"
+  workflow_dispatch:
 
 jobs:
 
